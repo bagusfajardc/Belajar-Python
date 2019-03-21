@@ -1,0 +1,5 @@
+print("INI ADALAH LUAS PERSEGI PANJANG")
+panjang = input("masukan panjangnya = ") 
+lebar	= input("masukan lebar 	 = ")
+luas = int(panjang)*int(lebar)
+print ("Jadi luasnya adalah segini = ",luas)
